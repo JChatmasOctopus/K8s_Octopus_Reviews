@@ -81,4 +81,4 @@ jobs:
           OCTOPUS_URL: "https://demo.octopus.app"
           OCTOPUS_SPACE: "GHU"
         with:
-          project: "K8s Octopus Reviews"
+          project: "K8s Octopub Reviews"
